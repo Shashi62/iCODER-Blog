@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "SBKProjectenv\\Scripts\\python.exe",
+    "debug.node.autoAttach": "on"
+}
